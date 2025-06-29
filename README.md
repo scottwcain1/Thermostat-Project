@@ -1,4 +1,4 @@
-# Thermostat-Project
+### Thermostat-Project
 CS 350 Thermostat Project Reflection
 # Summary of the Project
 This project was all about building a basic thermostat system that can manage room temperature. It solves the problem of keeping the temperature steady by letting users adjust it with buttons. The system changes the temperature and uses an LED to simulate a heater and cooling units with red and blue lights. It can also react to things like the heat from a finger on the temperature sensor, which simulates real environmental changes.
